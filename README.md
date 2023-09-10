@@ -6,4 +6,4 @@
 
 并且可以选择ios和MacOS图标以及圆角还是原始图像
 
-<img href="https://blog-1319165700.cos.ap-shanghai.myqcloud.com/blog/img/post/image-azin.png">
+<img href="https://blog-1319165700.cos.ap-shanghai.myqcloud.com/blog/img/post/image-azin.png" />
